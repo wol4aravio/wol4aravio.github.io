@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -24,14 +24,6 @@ projects:
     forks: false
     projects:
       - OSOL.Extremum_API
-      - Intervallum
-      - ProgrammingAssignment2
-      - Almaz_Report_2019
-      - OSOL.Extremum_Applications
-      - OSOL.Extremum_old
-      - OSOL.Extremum_Tasks
-      - KaimereApp
-      - wol4aravio.github.io
 
 social_media:
   telegram: wol4aravio
@@ -40,16 +32,3 @@ social_media:
   linkedin: panovskiyv
   medium: panovskiy.v
   vk: panovskiy_v
-
-topics:
-  - name: Python
-    web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
-
-  - name: Scala
-    web_url: https://github.com/topics/scala
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png
-
-  - name: Machine Learning
-    web_url: https://github.com/topics/machine-learning
-    image_url: https://www.customeranalytics.com/images/SectionImgFour.svg
